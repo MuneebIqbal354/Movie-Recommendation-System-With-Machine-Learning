@@ -13,8 +13,7 @@ By leveraging predictive modeling and heuristics, the system filters through tho
 Understanding the logic behind recommendation engines is crucial. This project explores the three primary methodologies:
 
 
-
-[Image of collaborative vs content-based filtering diagram]
+![licensed-image 2](https://github.com/user-attachments/assets/f6eaa792-7a0f-444f-92bb-9ae6ca11bf2b)
 
 
 ### 1. Content Based Filtering
@@ -62,6 +61,9 @@ The core mathematical concept driving the similarity engine in this project is *
 
 ### Application Screenshots
 
+<img width="1362" height="735" alt="1" src="https://github.com/user-attachments/assets/1a847a04-35ac-47a8-a970-70e04a5ad57d" />
+<img width="1366" height="738" alt="2" src="https://github.com/user-attachments/assets/45173e58-9f24-4f10-9054-04888fcf673e" />
+<img width="1366" height="736" alt="3" src="https://github.com/user-attachments/assets/fe6a8cd0-2be5-4ad6-9685-898221e1b8c5" />
 
 
 
