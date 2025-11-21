@@ -74,7 +74,7 @@ Follow these steps to set up the project locally.
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/MuneebIqbal354/Movie-Recommendation-System-With-Machine-Learning.git
-cd Movie-Recommender-System-Using-Machine-Learning
+cd Movie-Recommendation-System-With-Machine-Learning
 ```
 
 ### 2. Environment Setup
