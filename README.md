@@ -1,7 +1,5 @@
 # Movie Recommendation System Using Machine Learning
 
-**Project Overview**
-
 In an era of information overload, decision fatigue is a significant challenge. This project implements a Machine Learning-based **Movie Recommender System** designed to curate personalized content for users. 
 
 By leveraging predictive modeling and heuristics, the system filters through thousands of options to suggest movies that align with a user's specific tastes and viewing history, effectively minimizing search time and maximizing entertainment value. This is a web-based application built using **Streamlit**, capable of analyzing user interests to generate real-time movie suggestions.
