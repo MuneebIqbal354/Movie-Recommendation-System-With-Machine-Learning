@@ -59,9 +59,9 @@ The core mathematical concept driving the similarity engine in this project is *
 
 ### Application Screenshots
 
-<img width="1362" height="735" alt="1" src="https://github.com/user-attachments/assets/1a847a04-35ac-47a8-a970-70e04a5ad57d" />
-<img width="1366" height="738" alt="2" src="https://github.com/user-attachments/assets/45173e58-9f24-4f10-9054-04888fcf673e" />
-<img width="1366" height="736" alt="3" src="https://github.com/user-attachments/assets/fe6a8cd0-2be5-4ad6-9685-898221e1b8c5" />
+<img width="1362" height="735" alt="1" src="demo/1.png" />
+<img width="1366" height="738" alt="2" src="demo/2.png" />
+<img width="1366" height="736" alt="3" src="demo/3.png" />
 
 
 
